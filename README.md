@@ -1,6 +1,4 @@
-- 👋 Olá, Meu Nome é Wedson Gustavo
-- 🌱 Estudando Python e Html/css
-- 💞️ Eu Pretendo contribuir ainda.
+## Olá ! Meu Nome é Wedson Gustavo e Sou Estudante de Programação
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
